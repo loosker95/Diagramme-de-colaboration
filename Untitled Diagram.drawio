@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-28T06:27:40.526Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="_0dV6jEW_FzstGLvrT6f" version="12.9.13" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-28T06:30:48.937Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="Qc_EiNzT4GA-kVjlhHqI" version="12.9.13" type="github">
   <diagram id="81X1mQ6UX0WzqLGWzquK" name="Page-1">
     <mxGraphModel dx="2702" dy="944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -409,6 +409,27 @@
               <mxPoint x="-354" y="977.5" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CH9dBk8qKm8a6aNsmR89-110" value="Recevoir&amp;nbsp; commandes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="170" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CH9dBk8qKm8a6aNsmR89-112" value="Matieres Premieres" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="170" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CH9dBk8qKm8a6aNsmR89-113" value="Creer QR Code" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="170" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CH9dBk8qKm8a6aNsmR89-114" value="Enregistrer les informations" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="170" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CH9dBk8qKm8a6aNsmR89-115" value="Agriculteurs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-453" y="170" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CH9dBk8qKm8a6aNsmR89-116" value="Logistique" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="360" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CH9dBk8qKm8a6aNsmR89-117" value="Manufacture" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-453.5" y="545" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
